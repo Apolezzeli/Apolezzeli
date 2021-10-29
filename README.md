@@ -1,6 +1,6 @@
 ### Hi there 👋 I´m Almendra
 
-🌱 I’m currently learning backend development with Java
+🌱 I’m currently studying Certified Tech Developer career at Digital House
 
 <!--
 **Apolezzeli/Apolezzeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
